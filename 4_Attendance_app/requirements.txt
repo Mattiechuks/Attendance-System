@@ -2,7 +2,11 @@ numpy
 pandas
 matplotlib
 scipy
-jupyter
-opencv-python
+black
 streamlit
 pillow
+onnxruntime-gpu
+opencv-python-headless
+redis
+av
+insightface
