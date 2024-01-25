@@ -10,3 +10,4 @@ opencv-python-headless
 redis
 av
 insightface
+streamlit-webrtc
