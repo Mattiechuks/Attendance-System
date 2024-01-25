@@ -39,4 +39,4 @@ def add_logo(png_file):
     logo_markup = build_markup_for_logo(png_file)
     st.markdown(logo_markup, unsafe_allow_html=True)
 
-add_logo("img/myimg.png")
+add_logo("4_Attendance_app/img/myimg.png")
